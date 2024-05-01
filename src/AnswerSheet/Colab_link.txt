@@ -1,0 +1,62 @@
+28일어제 인스타그램?
+연관분석?
+
+27일 빈도수분석
+
+4월 8일 긍 부정 분석 tfidf 벡터
+
+
+
+tf가 dtm?
+
+
+3/20 수업내용
+https://zrr.kr/zyOJ   
+
+3/21 수업내용
+https://zrr.kr/sxKm  네이버
+
+3/26 수업내용
+https://zrr.kr/qu10  삼육대 수업 자료
+
+https://colab.research.google.com/drive/1fPFskd6DUWcN-YoTPuJLyFoHqftqVCv4?usp=sharing#scrollTo=wBOubwZshzSL
+긍부정
+https://colab.research.google.com/drive/1SI-t-K-DKbEx-nhsP3usKJgTGcCTFjc3?usp=sharing#scrollTo=-WKcI1noxHBi
+정수인코딩 / 원핫, dtm, bag of word
+
+4/8 수업내용
+https://zrr.kr/rNe8  tfidf
+https://zrr.kr/eb4j   긍부정분석
+
+4.9
+https://zrr.kr/b67v
+https://zrr.kr/QqeF
+
+4.17
+https://colab.research.google.com/drive/1DVimKvTPDJvueWxtVdn-FIevj6gtbXkH?usp=sharing
+
+4.18
+https://colab.research.google.com/drive/1AvfKGf-w78flqFKzkf2m3ex0zOUmljth?usp=sharing#scrollTo=nklUeCjr_rv7
+
+4.19
+https://colab.research.google.com/drive/1wRAJmEMcsOl7bf43xWssZiqMuABdibCF?usp=sharing
+
+4.22
+https://zrr.kr/YRqT
+
+4.24
+https://colab.research.google.com/drive/15AC7O1VCtyqJ0Bf7cH21eX2KEbbOW_aI?usp=sharing
+
+4.25
+https://colab.research.google.com/drive/186_YihWwhe9YNf0WXpUW8kZZ4r5IiqNo?usp=sharing
+https://colab.research.google.com/drive/1MnCfZtqTqgJs1g_0bSKv0IYYiE5Gjlf5?usp=sharing
+
+4.29
+https://zrr.kr/a63L
+4.30
+https://zrr.kr/Ui3i
+https://zrr.kr/9amn
+
+5.01
+https://zrr.kr/mUkV 자동화
+https://zrr.kr/JJgt 야후
